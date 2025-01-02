@@ -40,7 +40,7 @@ int main(){
         cout<<" enter two no. : "<<endl;
         cin>>a>>b;
         c=a/b;
-        cout<<"division is "<<c;
+        cout<<"divide is "<<c;
     }
         break;
     default:
